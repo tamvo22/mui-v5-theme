@@ -8,6 +8,9 @@ One of the challenges when working with MUI and Next.js is the styling and overr
 
 This project is based on the starter [MUI 5 + Next.js + TypeScript example](https://github.com/mui/material-ui/tree/master/examples/nextjs-with-typescript).
 
+## CodeSandbox
+
+[![CodeSandbox Example](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/tamvo22/mui-v5-theme)
 
 ## Objective
 
@@ -24,7 +27,7 @@ This project's objective is to achieve persistent togglable light and dark mode 
 
 ## Key points
 
-- One major change to MUI 5 is that in order to override MUI styles easily, we would need to 'prepend' emotion cache to the top of <head>.
+- One major change to MUI 5 is that in order to override MUI styles easily, we would need to 'prepend' emotion cache to the top of `<head>`.
 
 ```jsx
 // src/createEmotionCache.ts
