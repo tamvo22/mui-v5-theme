@@ -4,6 +4,11 @@
 
 One of the challenges when working with MUI and Next.js is the styling and overriding of MUI's default theme styles. In this example, we will extend the existing project [MUI 5 + Next.js + TypeScript example](https://github.com/mui/material-ui/tree/master/examples/nextjs-with-typescript) by adding a persistent light and dark mode feature while overriding existing MUI styles with MUI Emotion Styled Components.
 
+## Feedback
+
+Please leave a message on my portfolio website. Your comments are always appreciated and aid my quest for knowledge.
+[https://tamvo.vercel.app/](https://tamvo.vercel.app/)
+
 ## Starter project
 
 This project is based on the starter [MUI 5 + Next.js + TypeScript example](https://github.com/mui/material-ui/tree/master/examples/nextjs-with-typescript).
